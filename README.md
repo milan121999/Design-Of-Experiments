@@ -14,9 +14,10 @@ Factors considered for this experiment were:
 
 1) wheel Size 
 2) Length of the car
-3)Width of the car
-4)Number of wheels
-5)Load position
+3) Width of the car
+4) Number of wheels
+5) Load position
+
 These factors were systematically manipulated to create a well-designed set of experiments.
 
 ## Minitab Implementation 
