@@ -12,7 +12,7 @@ The objective was to analyze and improve the performance of a LEGO-based race ca
 ## Data
 Factors considered for this experiment were:
 
-1)wheel Size
+1)wheel Size</n>
 2)Length of the car
 3)Width of the car
 4)Number of wheels
